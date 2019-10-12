@@ -13,7 +13,7 @@
 - [김가경](https://github.com/irobii)
 - [김아람](https://github.com/Aram1004)
 - [이정화](https://github.com/jeonghwa1)
-- 우현수
+- [우현수](https://github.com/hyaluronicc)
 - [오정민](https://github.com/owjs3901)
 
 
