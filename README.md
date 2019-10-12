@@ -10,11 +10,11 @@
 
 ## 구성원
 - 이명재(팀장)
-- 김가경
-- 김아람
-- 이정화
+- [김가경](https://github.com/irobii)
+- [김아람](https://github.com/Aram1004)
+- [이정화](https://github.com/jeonghwa1)
 - 우현수
-- 오정민
+- [오정민](https://github.com/owjs3901)
 
 
 ## 개요
