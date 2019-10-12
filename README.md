@@ -24,4 +24,4 @@ Python3의 Flask와 Jupyter Notebook으로 REST API를 작성하여 배포하였
 
 
 
-![](./character/녹물이(놀람).png){width=50%}.
+![](./character/gif character.gif)
