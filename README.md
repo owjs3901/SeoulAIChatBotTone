@@ -21,3 +21,7 @@ Transformer 모델을 Python으로 구동하여 인공지능을 구성하였습�
 Python3의 Flask와 Jupyter Notebook으로 REST API를 작성하여 배포하였습니다.
 
 ## 녹물이(캐릭터)
+
+
+
+![](./character/녹물이(놀람).png){width=50%}.
