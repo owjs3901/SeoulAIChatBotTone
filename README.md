@@ -14,7 +14,7 @@
 ## 개요
 갑작스러운 녹물 발생!  
 어떻게 해결하시나요?  
-이를 위한 챗봇 솔루션입니다.  
+**척척 석사** 녹물이가 이를 답해드립니다!
 
 ## 기술
 Transformer 모델을 Python으로 구동하여 인공지능을 구성하였습니다.  
@@ -24,4 +24,4 @@ Python3의 Flask와 Jupyter Notebook으로 REST API를 작성하여 배포하였
 
 
 
-![](./character/gif character.gif)
+![](./character/gif%20character.gif)
