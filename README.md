@@ -9,7 +9,7 @@
 챗봇 홈 : https://pf.kakao.com/_BCudj
 
 ## 구성원
-- 이명재(팀장)
+- [이명재(팀장)](https://github.com/CHUUUU)
 - [김가경](https://github.com/irobii)
 - [김아람](https://github.com/Aram1004)
 - [이정화](https://github.com/jeonghwa1)
