@@ -8,6 +8,11 @@
 
 챗봇 홈 : https://pf.kakao.com/_BCudj
 
+## 개요
+갑작스러운 녹물 발생!  
+어떻게 해결하시나요?  
+**척척 석사** 녹물이가 이를 답해드립니다!
+
 ## 구성원
 - [이명재(팀장)](https://github.com/CHUUUU)
 - [김가경](https://github.com/irobii)
@@ -16,11 +21,6 @@
 - [우현수](https://github.com/hyaluronicc)
 - [오정민](https://github.com/owjs3901)
 
-
-## 개요
-갑작스러운 녹물 발생!  
-어떻게 해결하시나요?  
-**척척 석사** 녹물이가 이를 답해드립니다!
 
 ## 기술
 Transformer 모델을 Python으로 구동하여 인공지능을 구성하였습니다.  
